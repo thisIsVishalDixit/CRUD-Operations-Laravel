@@ -1,4 +1,4 @@
-you'll find the complete code file for performing CRUD operations in Laravel. Before you proceed, ensure that you have Laravel installed on your system. Start the XAMPP server with both Apache and MySQL running. <br/>
+You'll find the complete code file for performing CRUD operations in Laravel. Before you proceed, ensure that you have Laravel installed on your system. Start the XAMPP server with both Apache and MySQL running. <br/>
 Open the folder in the command line; alternatively, you can use a shortcut by opening the file, clicking on the file name, and typing "cmd." In the command prompt, type the following command: <br/>
 php artisan serve
 <br/>
